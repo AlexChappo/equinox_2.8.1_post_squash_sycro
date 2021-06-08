@@ -2,6 +2,7 @@
     "first test": {
         "description": "", 
         "is_deactivated": false, 
+        "original_title": "first test", 
         "steps": [
             {
                 "continue_on_failure": false, 
